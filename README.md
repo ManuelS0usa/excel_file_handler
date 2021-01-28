@@ -1,2 +1,3 @@
-# excel_file_handler
-Excel file handler script
+# Excel file handler script
+
+This script allows to easily handle an excel file data
